@@ -1,0 +1,14 @@
+data {
+    load debuggers XML
+    initial input data XML failed
+    (message)=c_pass, result "OK" 
+        (message) address headers readonly myModalLabel
+            send data to kernel 
+(int) main
+c=5 [charset] mode 5 int pass 1 kernel 5 core 1-6 to toggle
+mode 5
+int pass kernel key mode 1 
+{pass} kernel mode
+[cpu] validate signature from 0x000f0538221222A5
+
+}
